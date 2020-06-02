@@ -4,29 +4,66 @@ p {font-family: 'Roboto', sans-serif;
 }
 
 h1
-{font-family: 'Roboto', sans-serif;
+{font-family: 'Marmelad', sans-serif;
+    color: #033a91;
 
 }
 
 h2
-{font-family: 'Roboto', sans-serif;
+{font-family: 'Marmelad', sans-serif;
 
 }
 
 h3
-{font-family: 'Roboto', sans-serif;
+{font-family: 'Marmelad', sans-serif;
 
 }
 
 h4
-{font-family: 'Roboto', sans-serif;
+{font-family: 'Marmelad', sans-serif;
 
 }
-
 
 footer {
     text-align: center;
     padding: 3px;
-    background-color: DarkSalmon;
+    background-color: gray;
     color: white;
+  
+}
+
+
+.navbar-brand {
+    font-family: 'Marmelad', sans-serif;
+    background-color: #033a91;
+    color: white;
+
+}
+
+.navbar {
+    font-family: 'Roboto', sans-serif;
+    background-color: white;
+}
+
+.nav-item {
+    font-family: 'Roboto', sans-serif;
+    background-color: white;
+
+}
+
+.h1line {
+     display: block;
+        margin-top: 0.5em;
+        margin-bottom: 0.5em;
+        margin-left: auto;
+        margin-right: auto;
+        border-style: inset;
+        border-width: 1px;
+        color: #c0c5cc;
+}
+
+hr {
+    display: block;
+       height: 5px;
+       background-color: #033a91;
 }
