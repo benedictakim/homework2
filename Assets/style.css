@@ -1,0 +1,32 @@
+/* Google font Marmelad and Roboto*/
+p {font-family: 'Roboto', sans-serif;
+
+}
+
+h1
+{font-family: 'Roboto', sans-serif;
+
+}
+
+h2
+{font-family: 'Roboto', sans-serif;
+
+}
+
+h3
+{font-family: 'Roboto', sans-serif;
+
+}
+
+h4
+{font-family: 'Roboto', sans-serif;
+
+}
+
+
+footer {
+    text-align: center;
+    padding: 3px;
+    background-color: DarkSalmon;
+    color: white;
+}
